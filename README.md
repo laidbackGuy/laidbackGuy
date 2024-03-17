@@ -24,3 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eung0202)](https://solved.ac/eung0202/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laidbackGuy&layout=compact&theme=dark)
+
+![](./profile-3d-contrib/profile-night-view.svg)
