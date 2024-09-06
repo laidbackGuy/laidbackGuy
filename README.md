@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=laidbackGuy's%20Profile&fontSize=70)
-## Welcome to my profile ✨
+
 
 <center><img src="SDA.png" width="365" height="365"></center>
 
